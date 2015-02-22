@@ -20,10 +20,12 @@ data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfil
 This script runs and creates tidy data for assesment and summary data from tidy data.
 
 The scripts creates tables:
+
 1. all.features.data.tidy for step 1-4  
 2. all.features.data.tidy.summary for step 5.
 
 The script consist of:
+
 1. Loading data to R.
 2. Merging data to all.features.data.tidy
 3. Summarising all.features.data.tidy to all.features.data.tidy.summary
@@ -33,4 +35,4 @@ Almost for all the analysis steps, the dplyr package was used.
 
 ## Code book
 The code book for these two tables is the one.
-The code book is file codeBook.pdf
+The code book is file <B> codeBook.pdf </b>.
